@@ -17,19 +17,11 @@ além de outras informações relevantes do jogo.
 
 ## Funcionalidades
 
-- 📊 Visualização das últimas partidas
-- 👤 Informações da conta do jogador
-- 🗺️ Mapas jogados recentemente
-- 📈 Estatísticas básicas de desempenho
 
 ---
 
 ## Funcionalidades Futuras
 
-- 📰 Notícias e atualizações do jogo
-- 🔫 Agentes mais jogados
-- 📊 Estatísticas avançadas (KDA, winrate, etc.)
-- ⭐ Sistema de favoritos (salvar jogadores)
 
 ---
 
@@ -37,7 +29,6 @@ além de outras informações relevantes do jogo.
 
 O aplicativo será composto por pelo menos 3 telas principais:
 
-### 1. ela de Busca
 
 - Campo para inserir o nome do jogador (Nick + Tag)
 - Botão para buscar dados na API
